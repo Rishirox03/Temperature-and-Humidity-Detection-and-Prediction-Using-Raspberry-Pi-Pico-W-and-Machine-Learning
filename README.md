@@ -10,6 +10,7 @@
   - [Running and Debugging](#running-and-debugging)
   - [Raspberry Pi Pico Pin Diagram](#Raspberry-Pi-Pico-Pin-Diagram)
   - [Wiring](#wiring)
+  - [Wrapping It Up](#wrapping-it-up)
 
 # Creating a Temperature-and-Humidity-Detection-and-Prediction-Using-Raspberry-Pi-Pico-W-and-Machine-Learning
 
