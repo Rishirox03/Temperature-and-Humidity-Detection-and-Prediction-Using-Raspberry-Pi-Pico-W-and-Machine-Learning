@@ -58,3 +58,20 @@ The project aims to display the classification results on the JHD 162A LCD, maki
    - dht11.py
 
 This step ensures that you have all the required files in place for running your project successfully.
+## Running and Debugging
+
+To run and debug your code, follow these steps:
+
+1. Use an Integrated Development Environment (IDE), preferably Thonny IDE.
+
+2. Ensure that your Raspberry Pi Pico is connected to your computer.
+
+3. Refer to the connection details provided below for proper setup and debugging.
+
+Please note that you'll need to configure your IDE to work with your Raspberry Pi Pico for effective code development and debugging.
+
+
+
+## Raspberry Pi Pico Pin Diagram
+
+![Raspberry Pi Pico Pin Diagram](picow-pinout.svg)
