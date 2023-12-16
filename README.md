@@ -105,7 +105,7 @@ For this project, a substantial amount of wiring is required. It is highly recom
 
 In this innovative project, we set out to transform our Raspberry Pi Pico into a versatile tool for Temperature and Humidity Detection, equipped with the capability to predict future temperature and humidity trends using Machine Learning. Our inspiration drew from the vast potential of combining microcontrollers, sensor technology, and advanced algorithms to create a comprehensive solution.
 
-The cornerstone of our endeavor is the utilization of the GHT11 sensor, a reliable component chosen for its precision in measuring both temperature and humidity. This sensor serves as the linchpin for gathering real-time data, allowing our Raspberry Pi Pico to capture and process environmental conditions with accuracy.
+The cornerstone of our endeavor is the utilization of the DHT11 sensor, a reliable component chosen for its precision in measuring both temperature and humidity. This sensor serves as the linchpin for gathering real-time data, allowing our Raspberry Pi Pico to capture and process environmental conditions with accuracy.
 
 The project involves meticulous wiring and the careful integration of software components to ensure seamless functionality. Additionally, we've employed machine learning algorithms to analyze historical data trends, enabling our system to make predictions about future temperature and humidity levels. This forward-looking capability adds a predictive dimension to the project, making it not only a monitoring tool but also a valuable resource for anticipating environmental changes.
 
